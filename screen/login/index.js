@@ -27,7 +27,7 @@ export default function LoginScreen({ navigation }) {
     }
   };
   const login = async () => {
-    axios.get('https://my-json-server.typicode.com/tungtom202/serverAPI.github.io/db').then(response => {
+    axios.get('https://raw.githubusercontent.com/hungdztrau123/hungh-hehome/master/data/user.json').then(response => {
       let userData = response.data.NguoiDung
       console.log(response.data)
       if (userData) {
