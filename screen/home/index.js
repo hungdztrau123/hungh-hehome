@@ -26,53 +26,72 @@ export default function HomeScreen({ navigation }) {
         marginTop: StatusBar.currentHeight + 10,
       }}
     >
-      <Text style={{ marginTop: 20, fontSize: 22 }}>{`Chào, ${
+      <Text style={{ marginTop: 8, fontSize: 20,color:"darkolivegreen" , fontWeight:"bold", flexDirection: 'row',width:"100%",alignItems:'center', textAlign:'center' }}>{`Hello, ${
         user && user.name
-      }!`}</Text>
+      } !`}</Text>
       <View
         style={{
-          backgroundColor: '#67E5CE',
-          padding: 20,
+          backgroundColor: 'gray',
+          padding: 8,
           borderRadius: 12,
-          marginTop: 20,
+          marginTop: 8,
         }}
       >
+        <View style={{ flexDirection: 'row', alignItems: 'center', width:"100%", height: 40, backgroundColor:"beige", borderRadius:10, justifyContent:'center',marginBottom:5, }}>
+         <Text
+          style={{
+            color: 'darkkhaki',
+            fontWeight: 'bold',
+            fontSize: 25,
+           
+           
+          }}
+        >
+          ADIDAS IN YOUR FAMILY
+        </Text>
+        </View>
+        <View style={{ flexDirection: 'column', alignItems: 'center', width:"100%",  backgroundColor:"beige", borderRadius:10, justifyContent:'center',marginBottom:1, }}>
+
         <View style={{ flexDirection: 'row', alignItems: 'baseline' }}>
-          <Text style={{ color: '#fff', fontWeight: 'bold', fontSize: 18 }}>
-            GIẢM
+       
+       
+          <Text style={{ color: 'gray', fontWeight: 'bold', fontSize: 18 }}>
+            SALE
           </Text>
           <Text
             style={{
-              color: '#000',
+              color: 'darkgoldenrod',
               fontWeight: 'bold',
-              fontSize: 24,
+              fontSize: 22,
             }}
           >
-            {' 50% '}
+            {' 70% '}
           </Text>
-          <Text style={{ color: '#fff', fontWeight: 'bold', fontSize: 18 }}>
-            CHO NGƯỜI MỚI
+          <Text style={{ color: 'gray', fontWeight: 'bold', fontSize: 18 }}>
+            FOR NEWBIE
           </Text>
         </View>
+      
         <Text
           style={{
-            color: '#fff',
+            color: 'darkkhaki',
             fontWeight: 'bold',
-            fontSize: 10,
-            marginTop: 30,
+            fontSize: 12,
+            marginTop: 8,
           }}
         >
-          SỰ DỤNG CODE NÀY
+          USING THIS CODE NOW
         </Text>
         <Text
           style={{
-            color: '#000',
+            color: 'darkgoldenrod',
             fontWeight: 'bold',
             fontSize: 24,
           }}
         >
-          NEW50
+          NEW-70
         </Text>
+        </View>
       </View>
       <View style={styles.sectionContainer}>
         <Text style={styles.title}>Đồ uống HOT</Text>

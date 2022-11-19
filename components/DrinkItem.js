@@ -28,14 +28,14 @@ function DrinkItem(props) {
           {item?.name}
         </Text>
         <View style={{ flexDirection: 'row' }}>
-          <Text style={{ color: '#2FDBBC', fontWeight: 'bold', flex: 1 }}>
+          <Text style={{ color: 'chocolate', fontWeight: 'bold', flex: 1 }}>
             {item?.price} VND
           </Text>
           <View
             style={{
               padding: 2,
-              backgroundColor: '#2FDBBC',
-              borderRadius: 8,
+              backgroundColor: 'darkgoldenrod',
+              borderRadius: 5,
               alignItems: 'center',
             }}
           >
@@ -43,7 +43,7 @@ function DrinkItem(props) {
               style={{
                 height: 20,
                 width: 20,
-                tintColor: '#fff',
+                tintColor: 'cornsilk',
               }}
               source={require('../assets/Basket.png')}
             />
@@ -60,11 +60,11 @@ const styles = StyleSheet.create({
   imageStyle: {
     width: '100%',
     height: 150,
-    borderRadius: 14,
+    borderRadius: 0,
   },
   container: {
     width: 150,
-    borderRadius: 14,
+    borderRadius: 10,
     overflow: 'hidden',
     backgroundColor: '#fff',
     marginLeft: 12,

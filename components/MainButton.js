@@ -14,7 +14,7 @@ export default function MainButton(props) {
       onPress={onPress}
     >
       <Text
-        style={{ ...styles.title, color: isSubButton ? "#2FDBBC" : "#fff" }}
+        style={{ ...styles.title, color: isSubButton ? "#fff" : "#fff" }}
       >
         {title}
       </Text>
@@ -26,17 +26,18 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     alignItems: "center",
     paddingVertical: 10,
-    backgroundColor: "#2FDBBC",
+    backgroundColor: "#000",
     borderRadius: 100,
+  
   },
   title: {
     color: "#fff",
     fontSize: 16,
+    fontWeight:"bold",
   },
   subButton: {
-    backgroundColor: "transparent",
-    borderWidth: 2,
-    borderColor: "#2FDBBC",
+    backgroundColor: "#000",
+  
     borderRadius: 100,
   },
 });

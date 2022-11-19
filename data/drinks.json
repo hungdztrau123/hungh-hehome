@@ -1,102 +1,113 @@
 [
     {
         "id": 0,
-        "name": "Trà Lipton",
-        "image": "https://tandoorvietnam.com/wp-content/uploads/2020/06/lipton-Tea.jpg",
-        "price": 40000,
-        "owner": "Tocotoco",
+        "name": "Áo Đấu Sân Nhà Argentina 22",
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/c8a146ebb9f4442d8dbaae830109d9d5_9366/%C3%A1o-%C4%91%E1%BA%A5u-s%C3%A2n-nh%C3%A0-argentina-22.jpg",
+        "price": 400000,
+        "owner": "Adidas",
         "ice": [
-            "0%",
-            "30%",
-            "50%",
-            "70%",
-            "100%"
+            "Red",
+            "Blue",
+            "Violet",
+            "Yellow",
+            "Gray"
         ],
         "size": [
             "S",
             "M",
-            "L"
+            "L",
+            "XL",
+            "2XL"
+
         ],
-        "description": "Tuyển chọn từ 100% lá trà non, trải qua quy trình Hấp kết hợp Sấy để bảo toàn hương vị tự nhiên. Là giải pháp thanh sạch cơ thể tiện lợi cho người trẻ hiện đại"
+        "description": "Làm từ 100% chất liệu tái chế, sản phẩm này đại diện cho một trong số rất nhiều các giải pháp của chúng tôi hướng tới chấm dứt rác thải nhựa. Là phiên bản bên ngoài sân cỏ của chiếc áo đồng hành cùng các cầu thủ khi thi đấu, chiếc áo đấu này có gấu thẳng cùng huy hiệu dệt nổi."
     },
     {
         "id": 1,
-        "name": "Matcha",
-        "image": "https://www.napoli.vn/Document/Images/matcha_ice_blended_master.jpg",
-        "price": 30000,
-        "owner": "Tocotoco",
+        "name": "Áo Thun Contempo Adicolor",
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/5eac9b46e50f409da900ae8001270939_9366/%C3%A1o-thun-contempo-adicolor.jpg",
+        "price": 300000,
+        "owner": "Adidas",
         "ice": [
-            "0%",
-            "30%",
-            "50%",
-            "70%",
-            "100%"
+            "Red",
+            "Blue",
+            "Violet",
+            "Yellow",
+            "Gray"
         ],
         "size": [
             "S",
             "M",
-            "L"
+            "L",
+            "XL",
+            "2XL"
         ],
-        "description": "Matcha là bột được nghiền từ búp non của cây trà xanh Tencha – giống trà đặc trưng của Nhật Bản."
+        "description": "Chiếc áo thun này làm từ chất liệu tự nhiên và có thể tái tạo, là một phần trong hành trình của chúng tôi hướng tới chấm dứt sử dụng tài nguyên hữu hạn và góp phần loại bỏ rác thải nhựa."
     },
     {
         "id": 2,
-        "name": "Trà Sữa Dâu",
-        "image": "https://bizweb.dktcdn.net/100/314/104/articles/fff.png?v=1599899697257",
-        "price": 30000,
-        "owner": "Ding Tea",
+        "name": "Áo Thun Du Đấu Designed For Gameday",
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/0f1e2335912348c698aeae92011a2bac_9366/%C3%A1o-thun-du-%C4%91%E1%BA%A5u-designed-for-gameday.jpg",
+        "price": 350000,
+        "owner": "Adidas",
         "ice": [
-            "0%",
-            "30%",
-            "50%",
-            "70%",
-            "100%"
+            "Red",
+            "Blue",
+            "Violet",
+            "Yellow",
+            "Gray"
         ],
         "size": [
             "S",
             "M",
-            "L"
+            "L",
+            "XL",
+            "2XL"
         ],
-        "description": "Sự ngọt ngào thơm ngon đi kèm màu hồng bắt mắt của trà sữa dâu chắc chắn sẽ mê hoặc mọi cô nàng mê trà sữa đấy. "
+        "description": "Nhân dịp giải đấu bóng đá lớn nhất thế giới, các họa tiết graphic hòa chung niềm phấn khích và tinh thần sục sôi trong bạn.Vạt bầu phía sau dài hơn giúp che chắn kín đáo khi vận động. "
     },
     {
         "id": 3,
-        "name": "Trà Sữa Bạc Hà",
-        "image": "https://jarvis.vn/wp-content/uploads/2019/05/cach-pha-che-tra-sua-bac-ha.jpg",
+        "name": "Áo Thun Tập Luyện Phủ PU ",
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/5aafb9038db8459eb875ae77001dd9f1_9366/%C3%A1o-thun-t%E1%BA%ADp-luy%E1%BB%87n-ph%E1%BB%A7-pu.jpg",
         "price": 30000,
-        "owner": "Fly Tea",
+        "owner": "Adidas",
         "ice": [
-            "0%",
-            "30%",
-            "50%",
-            "70%",
-            "100%"
+            "Red",
+            "Blue",
+            "Violet",
+            "Yellow",
+            "Gray"
         ],
         "size": [
             "S",
             "M",
-            "L"
+            "L",
+            "XL",
+            "2XL"
         ],
-        "description": "Trà sữa bạc hà là một trong số đó, thậm chí đồ uống này còn xuất hiện trong menu của hầu hết các thương hiệu trà sữa nổi tiếng và được khách hàng gọi thường xuyên. "
+        "description": "Gấu áo xẻ hai bên để tăng cường phạm vi chuyển động. Áo cũng có vạt sau dài hơn một chút giúp che chắn kín đáo hơn khi nâng tạ. Làm từ 100% chất liệu tái chế, sản phẩm này đại diện cho một trong số rất nhiều các giải pháp của chúng tôi hướng tới chấm dứt rác thải nhựa. "
     },
     {
         "id": 4,
-        "name": "Nước Chanh",
-        "image": "https://vinmec-prod.s3.amazonaws.com/images/20210314_090326_726577_nuoc-chanh-dieu-tri-t.max-800x800.jpg",
+        "name": "Áo Hoodie Ba Lá Classics Adicolor",
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/1a25578bec9c4e4783b2ae92013510e5_9366/%C3%A1o-hoodie-ba-l%C3%A1-classics-adicolor.jpg",
         "price": 30000,
-        "owner": "Fly Tea",
+        "owner": "Adidas",
         "ice": [
-            "0%",
-            "30%",
-            "50%",
-            "70%",
-            "100%"
+            "Red",
+            "Blue",
+            "Violet",
+            "Yellow",
+            "Gray"
         ],
         "size": [
             "S",
             "M",
-            "L"
+            "L",
+            "XL",
+            "2XL"
         ],
-        "description": "Nước chanh là một loại nước giải khát quen thuộc đối với mọi người. Ngoài những công dụng có lợi cho sức khỏe thì nước chanh cũng có những mặt hạn chế ảnh hưởng đến cơ thể mà chúng ta hay hiểu lầm và mắc phải."
+        "description": "Kể từ khi logo Ba Lá ra mắt vào thập niên 70, biểu tượng ấy đã xuất hiện cùng các vận động viên chuyên nghiệp, các ngôi sao hip hop, các nghệ sĩ và các nhà kiến tạo trên khắp thế giới. Vậy nên khi diện chiếc áo hoodie adidas này là bạn đang sánh vai cùng biết bao huyền thoại."
     }
 ]
